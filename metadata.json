@@ -1,0 +1,6 @@
+{
+  "name": "QBR Intelligence Studio",
+  "description": "Executive Quarterly Business Review analytics, KPI performance benchmarks, anomaly detection, and automated reporting platform for IT service delivery management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
